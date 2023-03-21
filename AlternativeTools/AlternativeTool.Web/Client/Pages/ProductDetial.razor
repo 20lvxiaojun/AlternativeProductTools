@@ -1,0 +1,21 @@
+﻿<h3>ProductDetial</h3>
+
+@page "/ProductDetail/{ProductName}"
+@inherits ProductDetialBase
+
+<h1>ProductCompetitives Name</h1>
+<div>
+    <table class="table table-hover table-striped">
+        <tbody>
+        @foreach (var item in Product.CometitiveProductNames)
+        {
+            <tr>
+                <td>@item</td>
+            </tr>
+        
+        }
+        </tbody>
+         
+    </table>
+   
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\bin\Debug\net5.0\AlternativeTool.Web.Shared.deps.json
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\bin\Debug\net5.0\AlternativeTool.Web.Shared.dll
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\bin\Debug\net5.0\AlternativeTool.Web.Shared.pdb
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.csproj.AssemblyReference.cache
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.AssemblyInfoInputs.cache
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.AssemblyInfo.cs
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.dll
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\refint\AlternativeTool.Web.Shared.dll
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\AlternativeTool.Web.Shared.pdb
+C:\Users\Bestriven\Desktop\C sharp\Blazor\AlternativeTool\AlternativeTool.Web\Shared\obj\Debug\net5.0\ref\AlternativeTool.Web.Shared.dll

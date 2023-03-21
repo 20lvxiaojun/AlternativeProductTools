@@ -1,0 +1,50 @@
+﻿<h3>ShowProduct</h3>
+@inherits ShowProductBase
+@page "/ShowProduct"
+
+@if(Products == null && ErrorMessage == null)
+{
+    <DisplaySpinner/>
+}
+else if(ErrorMessage != null)
+{
+    <DisplayError ErrorMessage="@ErrorMessage"></DisplayError>
+}
+else
+{
+    @*<h3 class="mb-5">Products</h3>
+    var productCount = Products.Count();
+    @if (productCount > 0)
+    {
+        @foreach(var prodGroup in Products)
+        {
+            <h4>@prodGroup.Name</h4>
+        }
+
+    }*@
+
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>产品名称</th>
+                <th>产品类别</th>
+                <th>产品描述</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Products)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Category</td>
+                    <td>@product.Describe</td>
+                    <td>
+                        <a href="@($"ProductDetail/{@product.Name}")" class="btn btn-primary btn-sm">
+                            Detial
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
